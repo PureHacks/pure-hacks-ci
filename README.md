@@ -1,4 +1,4 @@
 pure-hacks-ci
 =============
 
-PureHacks reladeded logos etc.
+PureHacks related logos etc.
